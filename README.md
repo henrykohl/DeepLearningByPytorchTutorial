@@ -1,5 +1,5 @@
 # DeepLearningByPytorchTutorial
 
-Lecture Resource:
+### Lecture Resource:
 
-https://www.youtube.com/watch?v=V_xro1bcAuA
+### https://www.youtube.com/watch?v=V_xro1bcAuA
