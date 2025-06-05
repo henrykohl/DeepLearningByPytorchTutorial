@@ -1,8 +1,8 @@
-# DeepLearningByPytorchTutorial
+# PyTorch for Deep Learning & Machine Learning – Full Course
 
-### Lecture Resource:
+* [Lecture Video](https://www.youtube.com/watch?v=V_xro1bcAuA)
 
-### https://www.youtube.com/watch?v=V_xro1bcAuA
+* [Github Repository](https://github.com/mrdbourke/pytorch-deep-learning)
 
 ### 補充 
 
